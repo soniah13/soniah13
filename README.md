@@ -1,4 +1,4 @@
-<h2 align="center">Hello World 🌍✨</h2>
+<h2 align="center">Welcome to Sonia's World</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sonia+Imorgan;Technical+Mentor+%40+Zindua+School;Electronics+Engineer+in+the+making;Cloud+and+DevOps+Enthusiast;Code+Mentor+%7C+Project+Builder+%7C+Girl+Who+Gets+Things+Done!">
